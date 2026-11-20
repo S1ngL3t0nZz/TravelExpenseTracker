@@ -2,6 +2,44 @@
 
 An Android mobile application for planning trips, logging multi-currency travel expenses, monitoring budgets in real time, and visualizing spending patterns through interactive charts.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/01_main_dashboard.png" alt="Main Dashboard" width="220" /><br />
+      <sub><b>Main Dashboard</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/02_add_trip_date_picker.png" alt="Add Trip & Date Picker" width="220" /><br />
+      <sub><b>Add Trip &amp; Date Picker</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/03_expense_history.png" alt="Expense History" width="220" /><br />
+      <sub><b>Trip Details &amp; Expense History</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/06_add_expense.png" alt="Add Expense" width="220" /><br />
+      <sub><b>Log Multi-Currency Expense</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/04_trip_spending_summary.png" alt="Trip Spending Summary" width="220" /><br />
+      <sub><b>Trip Spending Summary</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/05_global_summary_bar_chart.png" alt="Global Summary Bar Chart" width="220" /><br />
+      <sub><b>Global Budget vs. Spending</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/07_settings.png" alt="Settings" width="220" /><br />
+      <sub><b>Settings</b></sub>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
 ## Features
 
 - **Trip Management**: Create, edit, search, and delete trips with destination details, travel dates, and budgets.
